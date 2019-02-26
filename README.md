@@ -11,4 +11,6 @@ Second programming assignment for learning C as a second programming language.
 6. Sorting
 7. Algorithm optimization
 8. Algorithm complexity
+9. Enums
+10. Preprocessor
 
