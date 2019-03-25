@@ -40,9 +40,9 @@ Second programming assignment for learning C as a second programming language.
 ### Extension
 
 Your choice here...
-
+I chose #2 
 ### Implementation notes
 
 Your description here. Code samples will be appreciated...
-
+My fucntion first creates a traversal node that begins at the hea dof the list and travels one by one through each node, comparing the data in those nodes to the data passed in at the function call. If they are not equeal the traversal node moves on. If they are equal the ndoe is deleted by severing its connection to the rest of the list and connectin its previous node to its next node 
 
